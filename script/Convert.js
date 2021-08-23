@@ -1,7 +1,4 @@
 class Convert {
-  constructor() {
-    console.log("i'm the new object");
-  }
   fromCelcius(to, num1) {
     if (to == "cel") {
       return num1;
